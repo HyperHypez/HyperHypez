@@ -4,6 +4,8 @@
 
 I'm a computer science student from Chicago. I code various projects either academic or personal. I continue to seek further learning within the field.
 
+Most of my projects are private at this moment.
+
 Skills: C++ / Python / Java
 
 - 🔭 I’m currently working on this page. 
