@@ -2,7 +2,7 @@
 ## My name is Harrison
 #### I am entry level seeking software engineer
 
-I'm a computer science student from Chicago, Illinois. I code various projects either academic or personal. I continue to seek further learning within the field.
+I'm a computer science student from Chicago. I code various projects either academic or personal. I continue to seek further learning within the field.
 
 Skills: C++ / Python / Java
 
