@@ -1,12 +1,12 @@
 ### Hi there 👋, 
 ## My name is Harrison
-#### I am entry level seeking software engineer
+#### Aspiring entry-level software engineer
 
-I'm a computer science student from Chicago. I code various projects either academic or personal. I continue to seek further learning within the field.
+I'm a computer science student from Chicago. I code various projects, both academic and personal. I continue to seek further learning within the field.
 
 Most of my projects are private at this moment.
 
-Skills: C++ / Python / Java
+Skills: C++ / Python / Java 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Computer Science/Software Engineering 
