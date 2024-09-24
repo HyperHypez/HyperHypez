@@ -4,18 +4,19 @@
 I'm a Computer Science student at the University of Illinois Chicago, passionate about coding and solving complex problems in professional, academic, and personal settings. I enjoy learning new technologies and developing efficient software solutions.
 
 🔭 Currently Working On:
-Enhancing this GitHub page
-Building my knowledge in Software Engineering and CS
+-Enhancing this GitHub page
+-Building my knowledge in Software Engineering and CS
 
 🌱 Currently Learning:
-Advanced algorithms, design patterns, and concurrency
-GUI development with Python
-Real-time data processing with Node.js and Prisma
+-Advanced algorithms, design patterns, and concurrency
+-GUI development with Python
+-Real-time data processing with Node.js and Prisma
 
 💻 Languages:
-Languages: Python, Java, C++, JavaScript, C#, F#, SQL
+-Python, Java, C++, JavaScript, C#, F#, SQL
+
 🛠 Projects:
-Feel free to reach out for more info or access to any private repositories.
+-Feel free to reach out for more info or access to any private repositories.
 
 [Logistics Division Combination Organizer]: Automated logistical data analysis using Python. (Data Parsing, Pandas)
 [Brainwave Apocalypse]: A Unity-based zombie FPS game. (C#, Unity, AI, Physics)
