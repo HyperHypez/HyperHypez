@@ -1,15 +1,30 @@
 ### Hi there 👋, 
 ## My name is Harrison
-#### Aspiring entry-level software engineer
+#### Aspiring Entry-Level Software Engineer
+I'm a Computer Science student at the University of Illinois Chicago, passionate about coding and solving complex problems in professional, academic, and personal settings. I enjoy learning new technologies and developing efficient software solutions.
 
-I'm a computer science student from Chicago. I code various projects, both academic and personal. I continue to seek further learning within the field.
+🔭 Currently Working On:
+Enhancing this GitHub page
+Building my knowledge in Software Engineering and CS
 
-Most of my projects are private at this moment.
+🌱 Currently Learning:
+Advanced algorithms, design patterns, and concurrency
+GUI development with Python
+Real-time data processing with Node.js and Prisma
 
-Skills: C++ / Python / Java 
+💻 Languages:
+Languages: Python, Java, C++, JavaScript, C#, F#, SQL
+🛠 Projects:
+Feel free to reach out for more info or access to any private repositories.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Computer Science/Software Engineering 
+[Logistics Division Combination Organizer]: Automated logistical data analysis using Python. (Data Parsing, Pandas)
+[Brainwave Apocalypse]: A Unity-based zombie FPS game. (C#, Unity, AI, Physics)
+[Keno Gaming App]: JavaFX-based lottery simulation game. (Java, OOP, UML)
+
+📫 Contact:
+Email: harrisonvu22@gmail.com
+LinkedIn: linkedin.com/in/harrison-vu
+GitHub: github.com/HyperHypez
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hyperhypez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harrison-vu-4bb376207/)  
