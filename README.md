@@ -18,9 +18,9 @@ I'm a Computer Science student at the University of Illinois Chicago, passionate
 🛠 Projects:<br/>
 _Feel free to reach out for more info or access to any private repositories._
 
-[Logistics Division Combination Organizer]: Automated logistical data analysis using Python. (Data Parsing, Pandas)<br/>
-[Brainwave Apocalypse]: A Unity-based zombie FPS game. (C#, Unity, AI, Physics)<br/>
-[Keno Gaming App]: JavaFX-based lottery simulation game. (Java, OOP, UML)<br/>
+ [Logistics Division Combination Organizer]: Automated logistical data analysis using Python. (Data Parsing, Pandas)<br/>
+ [Brainwave Apocalypse]: A Unity-based zombie FPS game. (C#, Unity, AI, Physics)<br/>
+ [Keno Gaming App]: JavaFX-based lottery simulation game. (Java, OOP, UML)<br/>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperhypez&show_icons=true&count_private=true&theme=dark)  
