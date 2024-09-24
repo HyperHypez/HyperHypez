@@ -4,28 +4,23 @@
 I'm a Computer Science student at the University of Illinois Chicago, passionate about coding and solving complex problems in professional, academic, and personal settings. I enjoy learning new technologies and developing efficient software solutions.
 
 🔭 Currently Working On:
--Enhancing this GitHub page
--Building my knowledge in Software Engineering and CS
+- Enhancing this GitHub page
+- Building my knowledge in Software Engineering and CS
 
 🌱 Currently Learning:
--Advanced algorithms, design patterns, and concurrency
--GUI development with Python
--Real-time data processing with Node.js and Prisma
+- Advanced algorithms and design patterns
+- GUI development with Python
+- Real-time data processing with Node.js and Prisma
 
 💻 Languages:
--Python, Java, C++, JavaScript, C#, F#, SQL
+- Python, Java, C++, JavaScript, C#, F#, SQL
 
-🛠 Projects:
--Feel free to reach out for more info or access to any private repositories.
+🛠 Projects:<br/>
+_Feel free to reach out for more info or access to any private repositories._
 
-[Logistics Division Combination Organizer]: Automated logistical data analysis using Python. (Data Parsing, Pandas)
-[Brainwave Apocalypse]: A Unity-based zombie FPS game. (C#, Unity, AI, Physics)
-[Keno Gaming App]: JavaFX-based lottery simulation game. (Java, OOP, UML)
-
-📫 Contact:
-Email: harrisonvu22@gmail.com
-LinkedIn: linkedin.com/in/harrison-vu
-GitHub: github.com/HyperHypez
+[Logistics Division Combination Organizer]: Automated logistical data analysis using Python. (Data Parsing, Pandas)<br/>
+[Brainwave Apocalypse]: A Unity-based zombie FPS game. (C#, Unity, AI, Physics)<br/>
+[Keno Gaming App]: JavaFX-based lottery simulation game. (Java, OOP, UML)<br/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hyperhypez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harrison-vu-4bb376207/)  
