@@ -1,15 +1,15 @@
 ### Hi there 👋, 
 ## My name is Harrison
 #### Aspiring Entry-Level Software Engineer
-I'm a Computer Science student at the University of Illinois Chicago, passionate about coding and solving complex problems in professional, academic, and personal settings. I enjoy learning new technologies and developing efficient software solutions.
+I'm a Software Dev. at phantomstrike.io and recent CS graduate, passionate about coding and solving complex problems in professional, academic, and personal settings. I enjoy learning new technologies and developing efficient software solutions.
 
 🔭 Currently Working On:
 - Enhancing this GitHub page
 - Building my knowledge in Software Engineering and CS
 
 🌱 Currently Learning:
+- Managing security tools and cloud infrastructure at phantomstrike.io
 - Advanced algorithms and design patterns
-- GUI development with Python
 - Real-time data processing with Node.js and Prisma
 
 💻 Languages:
