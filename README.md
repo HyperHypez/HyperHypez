@@ -1,7 +1,7 @@
 ### Hi there 👋, 
 ## My name is Harrison
-#### Aspiring Entry-Level Software Engineer
-I'm a Software Dev. at phantomstrike.io and recent CS graduate, passionate about coding and solving complex problems in professional, academic, and personal settings. I enjoy learning new technologies and developing efficient software solutions.
+#### Aspiring Software Engineer
+I'm a Software Dev. and recent CS graduate, passionate about coding and solving complex problems in professional, academic, and personal settings. I enjoy learning new technologies and developing efficient software solutions.
 
 🔭 Currently Working On:
 - Enhancing this GitHub page
